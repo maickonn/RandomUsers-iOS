@@ -5,4 +5,4 @@ This application has been built for educational purposes to demonstrate the proc
 ---
 
 <strong>DEMO</strong>
-![App DEMO](Demo/video.gif)
+![App DEMO](Demo/Video.gif)
