@@ -6,4 +6,6 @@ This application has been built for educational purposes to demonstrate the proc
 
 <strong>DEMO</strong>
 
-![App DEMO](Demo/Video.gif)
+<img src="https://github.com/maickonn/RandomUsers-iOS/blob/master/Demo/Video.gif" width="200">
+
+
