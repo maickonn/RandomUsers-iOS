@@ -1,0 +1,6 @@
+"app-title-string" = "Usuários Aleatórios";
+"user-localization-string %@ %@ %@" = "Cidade: %@\nEstado: %@\nPaís: %@";
+"user-gender-string %@" = "Gênero: %@";
+"user-phone-string %@" = "Fone: %@";
+"user-email-string %@" = "E-mail: %@";
+"call-string" = "Chamar";

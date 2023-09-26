@@ -1,0 +1,6 @@
+"app-title-string" = "Random Users";
+"user-localization-string %@ %@ %@" = "City: %@\nState: %@\nCountry: %@";
+"user-gender-string %@" = "Gender: %@";
+"user-phone-string %@" = "Phone: %@";
+"user-email-string %@" = "E-mail: %@";
+"call-string" = "Call";
